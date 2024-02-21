@@ -1,5 +1,5 @@
 # 2048
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of Back to Top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 
@@ -29,14 +29,14 @@
   <p align="center">
     🎮 Fully featured terminal version of the game "2048" written in C++ 🎮
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TheDanielTp/2048"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/TheDanielTp/2048">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/TheDanielTp/2048/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/TheDanielTp/2048/issues">Request Feature</a>
   </p>
 </div>
 
@@ -55,16 +55,13 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#gameplay">Gameplay</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -73,85 +70,55 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+This is an open-source 2048 game made using c++ for my mid-term project. Feel free to use the source code and edit it however you want.
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![CPP][CPP.image]][CPP-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Feel free to download the source code of the project and run it via your own compiler. You can also download the .exe file and run it to play the game via your own terminal. And don't forget to contribute if you have any ideas on how to make the game better.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download the source code from [Here](https://github.com/TheDanielTp/2048/archive/refs/heads/main.zip)
+2. Use your preferred compiler to compile the code. If you're using windows cmd, use the following command.
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   gcc 2048.cpp -o 2048.exe
    ```
-3. Install NPM packages
+3. To run the game, simply open the .exe file created. If you're using windows cmd, use the following command.
    ```sh
-   npm install
+   2048.exe
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. Enjoy the Game.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Gameplay
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Run the game as instructed above using terminal or by double clicking the .exe file.
+2. In the main menu, use any key to start a new game.
+   - Use '2' key to open the leaderboard, and '3' key to exit the game.
+3. In the themes menu, choose your preferred theme using the instructed keys.
+   - Use any key to choose the default theme. Use '2' key for Blue-Green theme and '3' key for Orange-Red theme.
+4. Enter your name
+5. Use WASD or Arrow keys to move the numbers in the directions.
+6. The Goal is to merge numbers until you reach 2048.
+   - You can still continue to play the game after reaching 2048.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more instructions to play, please refer to [this link](https://www.wikihow.com/Beat-2048)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -169,7 +136,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 
@@ -178,18 +145,18 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+My Email - prof.danial4@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/TheDanielTp/2048](https://github.com/TheDanielTp/2048)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 
@@ -200,22 +167,24 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TheDanielTp/2048.svg?style=for-the-badge
+[contributors-url]: https://github.com/TheDanielTp/2048/graphs/contributors
+[CPP-url]: https://cplusplus.com/
+[CPP.image]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
+[forks-shield]: https://img.shields.io/github/forks/TheDanielTp/2048.svg?style=for-the-badge
+[forks-url]: https://github.com/TheDanielTp/2048/network/members
+[stars-shield]: https://img.shields.io/github/stars/TheDanielTp/2048.svg?style=for-the-badge
+[stars-url]: https://github.com/TheDanielTp/2048/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TheDanielTp/2048.svg?style=for-the-badge
+[issues-url]: https://github.com/TheDanielTp/2048/issues
+[license-shield]: https://img.shields.io/github/license/TheDanielTp/2048.svg?style=for-the-badge
+[license-url]: https://github.com/TheDanielTp/2048/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
