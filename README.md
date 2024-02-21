@@ -1,5 +1,4 @@
 # 2048
-🎮 Fully featured terminal version of the game "2048" written in C++ 🎮  
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -25,10 +24,10 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">2048 Game</h3>
 
   <p align="center">
-    project_description
+    🎮 Fully featured terminal version of the game "2048" written in C++ 🎮
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
