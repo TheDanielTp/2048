@@ -159,9 +159,6 @@ Project Link: [https://github.com/TheDanielTp/2048](https://github.com/TheDaniel
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
