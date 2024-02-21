@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/TheDanielTp/repo_name">
+  <a href="https://github.com/TheDanielTp/2048">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
