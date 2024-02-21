@@ -159,14 +159,6 @@ Project Link: [https://github.com/TheDanielTp/2048](https://github.com/TheDaniel
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
