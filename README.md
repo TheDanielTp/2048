@@ -1,4 +1,4 @@
-# 2048
+# 2048 Game
 <!-- Improved compatibility of Back to Top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -21,22 +21,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheDanielTp/2048">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="120" height="120">
   </a>
-
 <h3 align="center">2048 Game</h3>
 
   <p align="center">
     🎮 Fully featured terminal version of the game "2048" written in C++ 🎮
     <br />
-    <a href="https://github.com/TheDanielTp/2048"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/TheDanielTp/2048">View Demo</a>
-    ·
-    <a href="https://github.com/TheDanielTp/2048/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/TheDanielTp/2048/issues">Request Feature</a>
   </p>
 </div>
 
@@ -68,11 +59,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 🟩 About The Project
 
 This is an open-source 2048 game made using c++ for my mid-term project. Feel free to use the source code and edit it however you want.
 
-### Built With
+### Built With 
 
 * [![CPP][CPP.image]][CPP-url]
 
@@ -81,7 +72,7 @@ This is an open-source 2048 game made using c++ for my mid-term project. Feel fr
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🟦 Getting Started
 
 Feel free to download the source code of the project and run it via your own compiler. You can also download the .exe file and run it to play the game via your own terminal. And don't forget to contribute if you have any ideas on how to make the game better.
 
@@ -103,7 +94,7 @@ Feel free to download the source code of the project and run it via your own com
 
 
 <!-- USAGE EXAMPLES -->
-## Gameplay
+## 🟥 Gameplay
 
 1. Run the game as instructed above using terminal or by double clicking the .exe file.
 2. In the main menu, use any key to start a new game.
@@ -123,7 +114,7 @@ _For more instructions to play, please refer to [this link](https://www.wikihow.
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🟪 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -141,7 +132,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## 🟧 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -150,7 +141,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## 🟨 Contact
 
 My Email - prof.danial4@gmail.com
 
